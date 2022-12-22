@@ -1,0 +1,6 @@
+/home/panda/Downloads/project_p2/CMakeFiles/rebuild_cache.dir
+/home/panda/Downloads/project_p2/CMakeFiles/edit_cache.dir
+/home/panda/Downloads/project_p2/CMakeFiles/to_polygon.dir
+/home/panda/Downloads/project_p2/includes/CMakeFiles/rebuild_cache.dir
+/home/panda/Downloads/project_p2/includes/CMakeFiles/edit_cache.dir
+/home/panda/Downloads/project_p2/includes/CMakeFiles/utils.dir

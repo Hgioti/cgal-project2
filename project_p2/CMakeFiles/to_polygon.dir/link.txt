@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/to_polygon.dir/main.cpp.o CMakeFiles/to_polygon.dir/includes/Incremental.cpp.o CMakeFiles/to_polygon.dir/includes/ConvexHull.cpp.o CMakeFiles/to_polygon.dir/includes/Polygon.cpp.o  -o to_polygon  includes/libutils.a /usr/lib/x86_64-linux-gnu/libmpfr.so /usr/lib/x86_64-linux-gnu/libgmp.so -pthread 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libutils.a  CMakeFiles/utils.dir/Incremental.cpp.o CMakeFiles/utils.dir/ConvexHull.cpp.o CMakeFiles/utils.dir/Polygon.cpp.o
+/usr/bin/ranlib libutils.a
